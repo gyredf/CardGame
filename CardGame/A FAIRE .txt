@@ -1,4 +1,0 @@
-implémention fonction etats
-timer etat
-refaire carte
-refaire login (graphismes + fonctionnement)
